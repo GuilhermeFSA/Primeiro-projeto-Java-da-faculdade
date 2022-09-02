@@ -1,1 +1,1 @@
-Opa, esse é meu primeiro projeto em C da faculdade ;)
+Opa, esse é meu primeiro projeto em Java da faculdade ;)
